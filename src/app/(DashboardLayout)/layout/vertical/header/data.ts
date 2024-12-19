@@ -25,7 +25,7 @@ interface ProfileType {
 }
 const profile: ProfileType[] = [
   {
-    href: "/",
+    href: "/settings/account",
     title: "アカウント設定",
     subtitle: "アカウント情報を確認・変更",
     icon: "/images/svgs/icon-account.svg",
